@@ -10,7 +10,7 @@ int func(int a, int b)  // function definition
 
 int main()
 {
-    printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
+    printf("\n\n\t\tc basics\n\n\n");
 
     // function pointer
     int(*fptr)(int , int);
